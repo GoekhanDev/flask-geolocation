@@ -1,5 +1,4 @@
 # flask-geolocation
-Local IP Geolocation API
 
 A Free Local/offline geolocation API with accurate and fast response.
 
