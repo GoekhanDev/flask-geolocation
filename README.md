@@ -1,6 +1,6 @@
 # flask-geolocation
 
-A Free Local/offline geolocation API with accurate and fast response.
+A Free Local/offline geolocation API with accurate information and fast response.
 
 ## Requirements
  ```bash 
